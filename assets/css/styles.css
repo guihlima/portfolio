@@ -1,3 +1,25 @@
 @import url(colors.css);
 @import url(variables.css);
 @import url(reset.css);
+@import url(card.css);
+
+main{
+    background-color: #f3f3f3;
+}
+/* .line{
+    display: block;
+    width: 40%;
+    height: 3px;
+    background-color: red;
+} */
+
+/* Sections */
+ .title h4{
+    /* padding: ; */
+    border-bottom: 2px solid #000;
+ }
+
+ #section__services{
+    background-color: #f3f3f3;
+ }
+
